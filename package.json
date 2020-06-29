@@ -6,7 +6,7 @@
   "author": "Felipe Weiduschadt de Carvalho",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon"
+    "start": "node index.js"
   },
   "dependencies": {
     "body-parser": "^1.19.0",
